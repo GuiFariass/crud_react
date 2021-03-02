@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Guilherme",
+      "email": "artgui@engecadtopografia.com"
+    },
+    {
+      "id": 2,
+      "name": "Brayan Guilherme",
+      "email": "bragui@engecadtopografia.com"
+    },
+    {
+      "name": "Raisa Farias",
+      "email": "raisafarias@engecadtopografia.com",
+      "id": 3
+    }
+  ]
+}
